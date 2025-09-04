@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ALX Listing App
 
 ## 📌 Project Overview
@@ -85,3 +86,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+# alx-listing-app
+>>>>>>> 16fec14a88b47b4b41a325341592a0de4cd15aa2
